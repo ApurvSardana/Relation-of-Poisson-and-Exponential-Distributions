@@ -8,7 +8,7 @@
 class distribution{
     public:
     int N; //Number of events occured in simulated process
-    std::vector<int> data; //Time intervals between events
+    std::vector<double> data; //Time intervals between events
 
     distribution(){
         N = 0;
