@@ -1,4 +1,6 @@
 *.o
 *.exe
 *.out
+run_single
+run_tests
 .vscode/
